@@ -1,5 +1,34 @@
 # trabalho em grupo
 
+<<<<<<< HEAD
 Alteração Ryan Kohn
 
 Criando branch e commit 
+=======
+
+
+alteraçao feita por Vinicius Ferreira!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+outra alteração feita por vinicius.
+
+
+
+
+
+
+
+mais uma alteração.
+>>>>>>> origin/feature_VinnieBF
